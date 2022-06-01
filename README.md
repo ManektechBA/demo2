@@ -13,3 +13,11 @@ git config --global user.email sam@example.com
 + Check out a repository
 + Create a working copy of a local repository: git clone /path/to/repository
 + For a remote server, use: git clone username@host:/path/to/repository
+
+
+
+> For Add File in Commit
+```
+git add 
+git add*
+```
