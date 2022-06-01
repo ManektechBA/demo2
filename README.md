@@ -25,3 +25,4 @@ git add*
 
 ## Git training, day 2
 
+### Thank you!
