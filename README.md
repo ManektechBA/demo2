@@ -16,14 +16,12 @@ git config --global user.email sam@example.com
 
 
 
-##### Git training, day 2 : all good, trainig is going well
-
-## Git traingin, day 2
-
 > For Add File in Commit
 ```
 git add 
 git add*
 ```
 ##### Git training, day 2 : all good, trainig is going well
+
+## Git training, day 2
 
