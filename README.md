@@ -15,6 +15,15 @@ git config --global user.email sam@example.com
 + For a remote server, use: git clone username@host:/path/to/repository
 
 
+
 ##### Git training, day 2 : all good, trainig is going well
 
 ## Git traingin, day 2
+
+> For Add File in Commit
+```
+git add 
+git add*
+```
+##### Git training, day 2 : all good, trainig is going well
+
