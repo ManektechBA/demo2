@@ -21,3 +21,4 @@ git config --global user.email sam@example.com
 git add 
 git add*
 ```
+##### Git training, day 2 : all good, trainig is going well
