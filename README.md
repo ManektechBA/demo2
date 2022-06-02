@@ -23,6 +23,6 @@ git add*
 ```
 ##### Git training, day 2 : all good, trainig is going well
 
-## Git training, day 2
+## Git training, day 2.
 
 ### Thank you...!
