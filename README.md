@@ -3,8 +3,8 @@
 ### Configure the author name and email address to be used with your commits. Note that Git strips some characters (for example trailing periods) from user.name
 
 ```
-git config --global user.name "Sam Smith"
-git config --global user.email sam@example.com
+git config --global user.name "David"
+git config --global user.email david@manektech.com
 ```
 
 > Create a new local repository git init
@@ -26,3 +26,5 @@ git add*
 ## Git training, day 2.
 
 ### Thank you...!
+
+### testing demo2 branch !
