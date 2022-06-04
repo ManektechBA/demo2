@@ -14,21 +14,34 @@ git config --global user.email david@manektech.com
 + Create a working copy of a local repository: git clone /path/to/repository
 + For a remote server, use: git clone username@host:/path/to/repository
 
+##### For Add File in Commit
 
-
-> For Add File in Commit
 ```
 git add 
 git add *
 ```
-##### Git training, day 2 : all good, trainig is going well
 
-## Git training, day 2.
+Follow me for **Bold**
+Follow me for *Italic*
+Follow me for ~~Strikethrough~~
 
-### Thank you...!
++ Commit changes to head (but not yet to the remote repository):
+```
+git commit -m "Commit message"
+```
+or
+```
+git commit -am “Commit Message”
+```
 
-### testing demo2 branch !
 
-#### testing demo 2 branch
++ Commit any files you've added with git add, and also commit any files you've changed since then:
+```
+git commit -a
+```
 
-#### testing demo 2 branch!!!!!!!
++ Send changes to the master branch of your remote repository:
+```
+git push origin master
+```
+
