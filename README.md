@@ -19,7 +19,7 @@ git config --global user.email david@manektech.com
 > For Add File in Commit
 ```
 git add 
-git add*
+git add *
 ```
 ##### Git training, day 2 : all good, trainig is going well
 
